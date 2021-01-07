@@ -1,0 +1,16 @@
+.photo-form {
+    margin-top: 10px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    transform: translateX(50%);
+    text-align: left;
+}
+
+.random-photo {
+    margin-top: 10px;
+}
+
+.random-photo img {
+    border-radius: 10%;
+}
